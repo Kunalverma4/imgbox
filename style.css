@@ -1,0 +1,54 @@
+.coantiner {
+  width: 500px;
+  height: 500px;
+}
+.img1 {
+  width: 250px;
+  height: 150px;
+  margin-bottom: 5px;
+}
+.img2 {
+  width: 200px;
+  height: 350px;
+  margin-bottom: 5px;
+}
+.img3 {
+  width: 300px;
+  height: 50px;
+  margin-bottom: 5px;
+}
+.img4 {
+  width: 250px;
+  height: 150px;
+  margin-bottom: 5px;
+}
+.img5 {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 5px;
+}
+.image {
+  height: 100%;
+  margin-bottom: 5px;
+}
+
+/* .image1 {
+  width: 250px;
+  height: 150px;
+}
+.image2 {
+  width: 200px;
+  height: 350px;
+}
+.image3 {
+  width: 300px;
+  height: 50px;
+}
+.image4 {
+  width: 250px;
+  height: 150px;
+}
+.image5 {
+  width: 300px;
+  height: 300px;
+} */
